@@ -91,7 +91,7 @@ def zadanie4():
     print("---- Zdanie 4 ----")
     daneWe = input("Podaj ciąg znaków:\n")
 
-    print(f"Łańcuch {daneWe} isaplha(): {daneWe.isalpha()}")
+    print(f"Łańcuch {daneWe} isalpha(): {daneWe.isalpha()}")
     print(f"Łańcuch {daneWe} isascii(): {daneWe.isascii()}")
     print(f"Łańcuch {daneWe} isprintable(): {daneWe.isprintable()}")
     print(f"Łańcuch {daneWe} istitle(): {daneWe.istitle()}")
