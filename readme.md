@@ -1,4 +1,4 @@
-## Rozwiązania do zadań
+## Rozwiązania do zadań i notatki
 z przedmiotu Wprowadzenie do Data Science na Uniwersytecie Warmińsko-Mazurskim  
 Organizacja plików bazuje na [repozytorium](https://github.com/kropiak/uwm-wprowadzenie-do-data-science) prowadzącego zajęcia.
 
