@@ -72,3 +72,15 @@ print(slownik.keys()) # dict_keys(['klucz1', 'klucz2', 'klucz3'])
 print(slownik.items()) # dict_items([('klucz1', 1), ('klucz2', 2), ('klucz3', 3)])
 
 print('klucz1' in slownik.keys()) # True
+
+
+# set
+## do zrobienia
+
+
+
+# funkcja range
+
+liczby = range(5)
+print(type(liczby)) # range jest obiektem typu range
+print(liczby)
